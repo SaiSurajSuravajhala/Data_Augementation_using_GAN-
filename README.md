@@ -34,7 +34,6 @@ To demonstrate the use of **GANs** for augmenting training data beyond tradition
 - NumPy
 - Matplotlib & Seaborn
 - Scikit-learn (for model evaluation)
-- 
 ---
 
 ## 📊 Outcome
